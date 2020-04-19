@@ -6,7 +6,7 @@
 - $garena_card //เลขบัตรการีน่า (ราคาตาม Package ในเว็บ Termgame.com)
 
 # Example
-```
+```php
 <?php
   require "freefire.class.php";
   $ff = new FreeFire();
